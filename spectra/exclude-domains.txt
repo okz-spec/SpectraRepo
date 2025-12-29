@@ -1,8 +1,25 @@
-# exclude-domains.txt - домены, исключённые из обработки в игровом режиме
-# Добавьте сюда домены, которые ломаются при включённом ipset-all
-# Формат: по одному домену на строку
-
-# Примеры проблемных доменов (раскомментируйте если нужно):
-# banking.site.com
-# payment.processor.com
-# corporate.vpn.com
+pusher.com
+live-video.net
+ttvnw.net
+twitch.tv
+mail.ru
+citilink.ru
+yandex.com
+nvidia.com
+donationalerts.com
+vk.com
+yandex.kz
+mts.ru
+multimc.org
+ya.ru
+dns-shop.ru
+habr.com
+3dnews.ru
+sberbank.ru
+ozon.ru
+wildberries.ru
+microsoft.com
+msi.com
+akamaitechnologies.com
+2ip.ru
+yandex.ru
