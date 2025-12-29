@@ -711,3 +711,6 @@ static.doubleclick.net
 rr4---sn-0ahjg0-gv8e.googlevideo.com
 rr1---sn-q4fl6nde.googlevideo.com
 rr1---sn-0ahjg0-gv8e.googlevideo.com
+googleads.g.doubleclick.net
+www.google.com.ua
+rr5---sn-q4flrn7y.googlevideo.com
