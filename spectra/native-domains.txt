@@ -714,3 +714,7 @@ rr1---sn-0ahjg0-gv8e.googlevideo.com
 googleads.g.doubleclick.net
 www.google.com.ua
 rr5---sn-q4flrn7y.googlevideo.com
+challenges.cloudflare.com
+qualified-production.s3.amazonaws.com
+ad.doubleclick.net
+id.rlcdn.com
