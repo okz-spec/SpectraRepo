@@ -718,3 +718,4 @@ challenges.cloudflare.com
 qualified-production.s3.amazonaws.com
 ad.doubleclick.net
 id.rlcdn.com
+www.googletagmanager.com
